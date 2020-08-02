@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as an Intern.
-- 🌱 I’m currently learning react Native & Mobile Forensik.
+- 🌱 I’m currently learning React native & Mobile Forensik.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🤔 I’m looking for help with Valocity x Documentation.
 - 💬 Ask me about Android Development and any Tech Realated stuff.
