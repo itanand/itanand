@@ -1,7 +1,7 @@
 ### Hola, I am Anand Mohan 👋
 
 - 🎖 Completed 3 tech internships at Zenrays 🎥, Bankonites 🚗 and WERP india 📺
-- 🌱 I’m currently learning React native & Mobile Forensik.
+- 🌱 I’m currently learning Full Stack Development.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Android Development and any Tech Realated stuff.
