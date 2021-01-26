@@ -2,6 +2,7 @@
 
 - 🎖 Completed 3 tech internships at Zenrays 🎥, Bankonites 🚗 and WERP india 📺
 - 🌱 I'm Currently Working as Frontend Developer at Accoladez® , Bangalore.
+- 🎖  Learning Full Stack Development.[ JavaScript,React, Mongo, Nodejs ]
 - 👯 I’m looking to collaborate on Linkedin.
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Frontend Development and any Tech Realated stuff.
