@@ -16,7 +16,7 @@ I am a Software engineer with experiance in Web Development and App Development.
 - ⚡ Fun fact: Life is alredy Fun.
                     
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=itanand&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
