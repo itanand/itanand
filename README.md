@@ -20,7 +20,7 @@
 
 I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with other engineers.
 
-- 🎖 Completed 3 tech internships at Zenrays 🎥, Bankonites 🚗 and WERP india 📺
+- 🎖 Completed 3 tech internships at Varada 🛒, Zenrays 🎥, Bankonites 🚗 and WERP india 📺
 - 🌱 I'm Currently Working as Frontend Developer at Accoladez® , Bangalore.
 - 🎖  Learning Full Stack Development.[ JavaScript,React, Mongo, Nodejs] & Flutter❤️.
   🌱 I’m currently Working on Flutter❤️ projects.
