@@ -1,20 +1,6 @@
 ### Hola, I am Anand Mohan 👋
 
-<a href="https://twitter.com/">
-  <img align="left" alt="Anand's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anand-mohan-126946169/">
-  <img align="left" alt="Anand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/itanand/">
-  <img align="left" alt="Anand's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/data.integer/">
-  <img align="left" alt="Anand's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/anandmohann.kumar/">
-  <img align="left" alt="Anand's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 <br/>
 <br/>
 
@@ -32,6 +18,24 @@ I am a Software engineer with experiance in Web Development and App Development.
 - 💡 Want to know what's I'm working on ❓❗️ Click here 💎
 - ⚡ Fun fact: Life is alredy Fun.
  
+ ## Work Experience :
+
+* Analytics Associate at [Accenture]
+* Former Software Engineer intern at [CCTech]
+* Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
+* Founder at [Webshilla](https://www.webshilla.com)
+ 
+ 
+ 
+ ![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
+[![Linkedin Badge](https://img.shields.io/badge/-itanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itanand/)](https://www.linkedin.com/in/itanand/)
+[![Instagram Badge](https://img.shields.io/badge/-data.integer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/data.integer/)](https://instagram.com/data.integer)
+[![Medium Badge](https://img.shields.io/badge/-@itanand-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@itanand/)](https://medium.com/@itanand)
+[![Gmail Badge](https://img.shields.io/badge/-hey.itanand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehey.itanand@gmail.com)](mailto:hey.itanand@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=itanand" alt="itanand"/>
+
+
+
  **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
