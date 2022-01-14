@@ -21,9 +21,8 @@
 I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with other engineers.
 
 - 🎖 Completed 3 tech internships at Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
-- 🌱 I'm Currently Working as UI/UX Engineer at PnQ Technologies , Pune.
+- 🌱 I'm Currently Working as Analytics Associate at Accenture.
 - 🎖  Learning Full Stack Development.[React + Redux, NodeJs] & AWS❤️.
-  🌱 I’m currently Working on UI/UX❤️ projects.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Frontend Development and any Tech Realated stuff.
