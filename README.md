@@ -1,10 +1,6 @@
 ### Hola, I am Anand Mohan 👋
 
-
-<br/>
-<br/>
-
-I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with other engineers.
+I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
 
 - 🎖 Completed 3 tech internships at Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🌱 I'm Currently Working as Analytics Associate at Accenture.
@@ -27,7 +23,7 @@ I am a Software engineer with experiance in Web Development and App Development.
  
  
  
- ![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
+ [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
 [![Linkedin Badge](https://img.shields.io/badge/-itanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itanand/)](https://www.linkedin.com/in/itanand/)
 [![Instagram Badge](https://img.shields.io/badge/-data.integer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/data.integer/)](https://instagram.com/data.integer)
 [![Medium Badge](https://img.shields.io/badge/-@itanand-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@itanand/)](https://medium.com/@itanand)
