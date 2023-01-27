@@ -4,10 +4,12 @@
 
 I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
 
-- 🎖 Completed 3 tech internships at Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
-- 🌱 I'm Currently Working as Analytics Associate at Accenture.
-- 🎖  Learning Full Stack Development.[React + Redux, NodeJs] & AWS❤️.
+- 
+- 🌱 I'm Currently Working as Software Developer Full Stack ] at HeaTRec Solutions.
+- 🎖  Former Analytics Associate At Accenture.
+- 🎖  Learning DevSecOps & AWS❤️.
 - 👯 I’m looking to collaborate on Linkedin.
+- 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Frontend Development and any Tech Realated stuff.
 - 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @iamanand](https://www.linkedin.com/in/anand-mohan-126946169/) , [Website - @itanand](https://itanand.github.io/)
