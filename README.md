@@ -1,6 +1,6 @@
 ### Hola, I am Anand Mohan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=460&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand Mohan(aka itanand).;A+developer+%26+a+DevSecOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand+Mohan+aka itanand.;A+developer+%26+a+veteran+swiftie)](https://git.io/typing-svg)
 
 I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
 
