@@ -4,7 +4,6 @@
 
 I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
 
-- 
 - 🌱 I'm Currently Working as Software Developer [ Full Stack Developer] at HeaTRec Solutions.
 - 🎖  Former Analytics Associate Engineer At Accenture.
 - 🎖  Learning DevSecOps & AWS❤️.
