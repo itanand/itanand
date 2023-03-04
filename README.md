@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
 
-I am a Software engineer with experiance in Web Development and App Development. I love mobile apps, Websites, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
+I am a Software engineer with experiance in Web Development and App Development. I love to work with Cloud Platforms Website Development, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
 
-- 🌱 I'm Currently Working as Software Developer [ Full Stack Developer] at HeaTRec Solutions.
+- 🌱 I'm Currently Working as Software Developer [ DevOps Engineer ] at HeaTRec Solutions.
 - 🎖  Former Analytics Associate Engineer At Accenture.
 - 🎖  Learning DevSecOps & AWS❤️.
 - 👯 I’m looking to collaborate on Linkedin.
