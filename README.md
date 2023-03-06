@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
 
-I am a Software engineer with experiance in Web Development and App Development. I love to work with Cloud Platforms Website Development, open source projects and the challenges associated with them. I like writing,sharing my knowledge with others.
+I am a Software engineer with experiance in Web Development and UI / UX Development. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others.
 
-- 🌱 I'm Currently Working as Software Developer [ DevOps Engineer ] at HeaTRec Solutions.
+- 🌱 I'm Currently Working as Software Developer at HeaTRec Solutions.
 - 🎖  Former Analytics Associate Engineer At Accenture.
-- 🎖  Learning DevSecOps & AWS❤️.
+- 🎖  Learning DevOps❤️.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
-- 💬 Ask me about Frontend Development and any Tech Realated stuff.
+- 💬 Ask me about Frontend Development, UI / UX Development, Cloud and any Tech Realated stuff.
 - 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @iamanand](https://www.linkedin.com/in/anand-mohan-126946169/) , [Website - @itanand](https://itanand.github.io/)
 - 😄 Pronouns: He is..
 - 💭 Let's get to know each other 🌟
@@ -19,10 +19,10 @@ I am a Software engineer with experiance in Web Development and App Development.
  
  ## Work Experience :
 
-* Analytics Associate at [Accenture]
-* Former Software Engineer intern at [CCTech]
+* Software Engineer at [HeaTRec Solutions]
+* Former  Analytics Associate at [Accenture]
 * Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
-* Founder at [Webshilla](https://www.webshilla.com)
+* Founder & CEO at [Webshilla](https://www.webshilla.com)
  
  
  
