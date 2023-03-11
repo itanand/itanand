@@ -19,7 +19,7 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
  
  ## Work Experience :
 
-* Software Engineer at [HeaTRec Solutions]
+* Software Engineer at HeaTRec Solutions Pvt. Ltd.
 * Former  Analytics Associate at [Accenture]
 * Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
 * Founder & CEO at [Webshilla](https://www.webshilla.com)
