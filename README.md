@@ -11,7 +11,7 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 - 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Frontend Development, UI / UX Development, Cloud and any Tech Realated stuff.
-- 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @iamanand](https://www.linkedin.com/in/anand-mohan-126946169/) , [Website - @itanand](https://itanand.github.io/)
+- 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @itanand](https://www.linkedin.com/in/itanand/) , [Website - @itanand](https://itanand.netlify.app/)
 - 😄 Pronouns: He is..
 - 💭 Let's get to know each other 🌟
 - 💡 Want to know what's I'm working on ❓❗️ Click here 💎
