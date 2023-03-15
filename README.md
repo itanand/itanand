@@ -28,7 +28,9 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 * Former  Analytics Associate at [Accenture]
 * Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
 * Founder & CEO at [Webshilla](https://www.webshilla.com) -->
- 
+
+<br/>
+
  
  <h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
 <div align="center">
@@ -69,7 +71,10 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
    </tbody>	 
 </table>
 </div>
-
+<br/>
+ 
+<br/>
+ 
  
  [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
 [![Linkedin Badge](https://img.shields.io/badge/-itanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itanand/)](https://www.linkedin.com/in/itanand/)
