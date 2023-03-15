@@ -1,6 +1,8 @@
 ### Hola, I am Anand Mohan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
+![Itanand](https://user-images.githubusercontent.com/38817976/225310679-fb4666dc-efbb-48d5-b285-c08c6c2a09d9.png)
+
 
 I am a Software engineer with experiance in Web Development and UI / UX Development. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others.
 
