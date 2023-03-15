@@ -19,15 +19,15 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 - 💡 Want to know what's I'm working on ❓❗️ Click here 💎
 - ⚡ Fun fact: Life is alredy Fun.
  
- ## Work Experience :
+<!--  ## Work Experience :
 
 * Software Engineer at HeaTRec Solutions Pvt. Ltd.
 * Former  Analytics Associate at [Accenture]
 * Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
-* Founder & CEO at [Webshilla](https://www.webshilla.com)
+* Founder & CEO at [Webshilla](https://www.webshilla.com) -->
  
  
- <h2 align="center" id = "work-experience">🚀 Professional Experience </h2> 
+ <h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
 
 <table>
   <thead align="center">
@@ -39,47 +39,30 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Lead web developer</b> </td>
-      <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
-      <td> <b>Oct 2022 - Present </b> </td>
+      <td> <b> Lead Software Developer</b> </td>
+      <td><a href="[https://heatrecsolutions.com/]"/><b>HeaTRec Solutions </b></a></td>
+      <td> <b>June 2022 - Present </b> </td>
    </tr>
    <tr>
-      <td> <b> Freelance web developer</b> </td>
-      <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
-      <td> <b>Feb 2023</b> </td>
+      <td> <b> CEO & Founder </b> </td>
+      <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
+      <td> <b>March 2020 - Present</b> </td>
    </tr>
     <tr>
-      <td> <b> Opensource Devrel</b> </td>
-      <td><a href="https://productefy.com/"/><b>CodeIN Community</b></a></td>
-      <td> <b>Oct 2022 - Present </b> </td>
+      <td> <b> Analytics Associate </b> </td>
+      <td><a href="[https://www.accenture.com/]"/><b>Accenture</b></a></td>
+      <td> <b>Oct 2021 - April 2022</b> </td>
    </tr>
    <tr>
-      <td> <b>Freelance Web Developer</b> </td>
-      <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
-      <td> <b>Jan 2023</b> </td>
-   </tr>    
+      <td> <b> Freelance Web Developer</b> </td>
+      <td><a href="[https://www.usibtheteam.com/]"/><b>U-SIB The Team</b></a></td>
+      <td> <b>Oct 2020 - Sep 2021</b> </td>
+   </tr> 
    <tr>
-      <td> <b>Freelance Web Developer</b> </td>
-      <td><a href="https://techmartme.com/"/><b>TechMart</b></a></td>
-      <td> <b>Nov 2022</b> </td>
-   </tr>    
-   <tr>
-      <td> <b>Frontend Web Developer</b> </td>
-      <td><a href="https://www.linkedin.com/company/waystomakemoney/"/><b>Ways to Make Money</b></a></td>
-      <td> <b>Apr 2022 - Sep 2022</b> </td>
-   </tr>    
-   <tr>
-      <td> <b>Software Development Engineer Intern</b> </td>
-      <td><a href="https://www.linkedin.com/company/innception/"/><b>InnceptionIO</b></a></td>
-      <td> <b>Nov 2021 - Apr 2022</b> </td>
-   </tr>    
-   <tr>
-      <td> <b>Fullstack Web Developer </b> </td>
-      <td><a href="https://www.linkedin.com/company/uem-kolkata-acm/"/><b>UEM Kolkata ACM Student Chapter</b></a></td>
-      <td> <b>March 2021 - October 2021</b> </td>
-   </tr>    
-   
-
+      <td> <b>Development Intern </b> </td>
+      <td><a href="[https://cctech.co.in/]"/><b>CCTech</b></a></td>
+      <td> <b>April 2021 - July 2021</b> </td>
+   </tr> 
    </tbody>	 
 </table>
 
