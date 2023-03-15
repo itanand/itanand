@@ -1,8 +1,12 @@
+
+<div align="center">
 ### Hola, I am Anand Mohan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
 
 ![Add a subheading](https://user-images.githubusercontent.com/38817976/225311019-495d9965-0fc0-491d-9755-d29ace339761.png)
+
+
 
 I am a Software engineer with experiance in Web Development and UI / UX Development. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others.
 
@@ -94,6 +98,6 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 
 <img src="https://github-readme-stats.vercel.app/api?username=itanand&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
+</div>
 
            Show some ❤️ by starring some of the repositories!
