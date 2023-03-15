@@ -1,5 +1,4 @@
 
-<div align="center">
 ### Hola, I am Anand Mohan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
@@ -32,7 +31,7 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
  
  
  <h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
-
+<div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -69,6 +68,7 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
    </tr> 
    </tbody>	 
 </table>
+</div>
 
  
  [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
@@ -98,6 +98,6 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 
 <img src="https://github-readme-stats.vercel.app/api?username=itanand&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-</div>
+
 
            Show some ❤️ by starring some of the repositories!
