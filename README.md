@@ -27,6 +27,62 @@ I am a Software engineer with experiance in Web Development and UI / UX Developm
 * Founder & CEO at [Webshilla](https://www.webshilla.com)
  
  
+ <h2 align="center" id = "work-experience">🚀 Professional Experience </h2> 
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+    <tr>
+      <td> <b> Lead web developer</b> </td>
+      <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
+      <td> <b>Oct 2022 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Freelance web developer</b> </td>
+      <td><a href="https://www.stevens.edu/"/><b>Stevens Institute of Technology</b></a></td>
+      <td> <b>Feb 2023</b> </td>
+   </tr>
+    <tr>
+      <td> <b> Opensource Devrel</b> </td>
+      <td><a href="https://productefy.com/"/><b>CodeIN Community</b></a></td>
+      <td> <b>Oct 2022 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Freelance Web Developer</b> </td>
+      <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
+      <td> <b>Jan 2023</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Freelance Web Developer</b> </td>
+      <td><a href="https://techmartme.com/"/><b>TechMart</b></a></td>
+      <td> <b>Nov 2022</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Frontend Web Developer</b> </td>
+      <td><a href="https://www.linkedin.com/company/waystomakemoney/"/><b>Ways to Make Money</b></a></td>
+      <td> <b>Apr 2022 - Sep 2022</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Software Development Engineer Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/innception/"/><b>InnceptionIO</b></a></td>
+      <td> <b>Nov 2021 - Apr 2022</b> </td>
+   </tr>    
+   <tr>
+      <td> <b>Fullstack Web Developer </b> </td>
+      <td><a href="https://www.linkedin.com/company/uem-kolkata-acm/"/><b>UEM Kolkata ACM Student Chapter</b></a></td>
+      <td> <b>March 2021 - October 2021</b> </td>
+   </tr>    
+   
+
+   </tbody>	 
+</table>
+
  
  [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://www.twitter.com/itanand/)
 [![Linkedin Badge](https://img.shields.io/badge/-itanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itanand/)](https://www.linkedin.com/in/itanand/)
