@@ -7,7 +7,7 @@
 
 
 
-I am a Software engineer with experiance in Web Development and UI / UX Development. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others.
+I am a Software engineer with experiance in Web Development and UI / UX Development. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning Devops tools.
 
 - 🌱 I'm Currently Working as Software Developer at HeaTRec Solutions.
 - 🎖  Former Analytics Associate Engineer At Accenture.
