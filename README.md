@@ -9,13 +9,14 @@
 
 I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Services and Freelancing. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning Devops tools.
 
-- 🌱 I'm Currently Working as Software Developer at HeaTRec Solutions.
+- 🌱 I'm Currently Working as DevOps Engineer at HeaTRec Solutions.
+- 🥇 Top Rated Upwork Freelancer
 - 🎖  Former Analytics Associate Engineer At Accenture.
 - 🎖  Learning DevOps❤️.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
-- 💬 Ask me about Frontend Development, UI / UX Development, Cloud and any Tech Realated stuff.
+- 💬 Ask me about Frontend Development, AWS Services, Freelancing and any Open Source stuff.
 - 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @itanand](https://www.linkedin.com/in/itanand/) , [Website - @itanand](https://itanand.netlify.app/)
 - 😄 Pronouns: He is..
 - 💭 Let's get to know each other 🌟
@@ -44,9 +45,14 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Lead Software Developer</b> </td>
+      <td> <b> DevOps Engineer</b> </td>
       <td><a href="[https://heatrecsolutions.com/]"/><b>HeaTRec Solutions </b></a></td>
-      <td> <b>June 2022 - Present </b> </td>
+      <td> <b>May 2022 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Freelancer </b> </td>
+      <td><a href="[https://www.upwork.com/freelancers/itanand/]"/><b>Upwork</b></a></td>
+      <td> <b>March 2023 - Present </b> </td>
    </tr>
    <tr>
       <td> <b> CEO & Founder </b> </td>
