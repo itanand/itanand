@@ -1,5 +1,5 @@
 
-### Hola, I am Anand Mohan 👋
+### Hola, I am Anand 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+Developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
 
