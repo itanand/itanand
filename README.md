@@ -44,15 +44,20 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
       </tr>
   </thead>
   <tbody> 
-    <tr>
+   <tr>
       <td> <b> DevOps Engineer</b> </td>
-      <td><a href="[https://heatrecsolutions.com/]"/><b>HeaTRec Solutions </b></a></td>
+      <td><a href="[https://cloudplinth.com/]"/><b>CloudPlinth Technologies PVT LTD </b></a></td>
+      <td> <b>May 2023 - Present </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Software Developer -  Infra / DevOps</b> </td>
+      <td><a href="[https://heatrecsolutions.com/]"/><b>HeaTRec Solutions PVT LTD</b></a></td>
       <td> <b>May 2022 - Present </b> </td>
    </tr>
    <tr>
       <td> <b>Freelancer </b> </td>
       <td><a href="[https://www.upwork.com/freelancers/itanand/]"/><b>Upwork</b></a></td>
-      <td> <b>March 2023 - Present </b> </td>
+      <td> <b>March 2020 - Present </b> </td>
    </tr>
    <tr>
       <td> <b> CEO & Founder </b> </td>
@@ -65,7 +70,7 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
       <td> <b>Oct 2021 - April 2022</b> </td>
    </tr>
    <tr>
-      <td> <b> Freelance Web Developer</b> </td>
+      <td> <b> Software Engineer Developer</b> </td>
       <td><a href="[https://www.usibtheteam.com/]"/><b>U-SIB The Team</b></a></td>
       <td> <b>Oct 2020 - Sep 2021</b> </td>
    </tr> 
