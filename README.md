@@ -9,10 +9,10 @@
 
 I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Services and Freelancing. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning Devops tools.
 
-- 🌱 I'm Currently Working as DevOps Engineer at HeaTRec Solutions.
+- 🌱 I'm Currently Working as DevOps Engineer at Cloudplinth.
 - 🥇 Top Rated Upwork Freelancer
-- 🎖  Former Analytics Associate Engineer At Accenture.
-- 🎖  Learning DevOps❤️.
+- 🎖  Former DevOps Engineer At HeaTrec Solutions,  Accenture.
+- 🎖  Learning DevOps Tools, Full Stack❤️.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
