@@ -45,14 +45,19 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
   </thead>
   <tbody> 
    <tr>
+      <td> <b>Founder & CEO </b> </td>
+      <td><a href="[https://collegepur.com/]"/><b>Colegepur- An Open Source EDTech Platform</b></a></td>
+      <td> <b>May 2023 - Present </b> </td>
+   </tr>
+   <tr>
       <td> <b> DevOps Engineer</b> </td>
       <td><a href="[https://cloudplinth.com/]"/><b>CloudPlinth Technologies PVT LTD </b></a></td>
-      <td> <b>May 2023 - Present </b> </td>
+      <td> <b>May 2023 - Aug 2023 </b> </td>
    </tr>
     <tr>
       <td> <b> Software Developer -  Infra / DevOps</b> </td>
       <td><a href="[https://heatrecsolutions.com/]"/><b>HeaTRec Solutions PVT LTD</b></a></td>
-      <td> <b>May 2022 - Present </b> </td>
+      <td> <b>May 2022 - May, 2023 </b> </td>
    </tr>
    <tr>
       <td> <b>Freelancer </b> </td>
@@ -60,14 +65,14 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
       <td> <b>March 2020 - Present </b> </td>
    </tr>
    <tr>
-      <td> <b> CEO & Founder </b> </td>
-      <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
-      <td> <b>March 2020 - Present</b> </td>
-   </tr>
-    <tr>
       <td> <b> Analytics Associate </b> </td>
       <td><a href="[https://www.accenture.com/]"/><b>Accenture</b></a></td>
       <td> <b>Oct 2021 - April 2022</b> </td>
+   </tr>
+   <tr>
+      <td> <b> CEO & Founder </b> </td>
+      <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
+      <td> <b>March 2020 - Oct, 2021</b> </td>
    </tr>
    <tr>
       <td> <b> Software Engineer Developer</b> </td>
