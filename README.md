@@ -7,11 +7,11 @@
 
 
 
-I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Services and Freelancing. I love to work with Website & App Designing, Cloud Services, open source projects and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning Devops tools.
+I am a Entrepreneur and DevOps Engineer with experiance in Open Source, Software Development, Cloud Services and Freelancing. I love to build the Platforms and I love to explore the open Source world, Cloud Services, and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning and implementing DevOps.
 
-- 🌱 I'm Currently Working as DevOps Engineer at Cloudplinth.
+- 🌱 I'm Currently building an Open Source EdTech Platform.
 - 🥇 Top Rated Upwork Freelancer
-- 🎖  Former DevOps Engineer At HeaTrec Solutions,  Accenture.
+- 🎖  Former DevOps Engineer At Cloudplinth, HeaTrec Solutions, Accenture.
 - 🎖  Learning DevOps Tools, Full Stack❤️.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
@@ -46,7 +46,7 @@ I am a DevOps Engineer with experiance in Open Source, Web Development, AWS Serv
   <tbody> 
    <tr>
       <td> <b>Founder & CEO </b> </td>
-      <td><a href="[https://collegepur.com/]"/><b>Colegepur- An Open Source EDTech Platform</b></a></td>
+      <td><a href="[https://collegepur.com/]"/><b>Colegepur- An Open Source EdTech Platform</b></a></td>
       <td> <b>May 2023 - Present </b> </td>
    </tr>
    <tr>
