@@ -70,7 +70,7 @@ I am a Entrepreneur and DevOps Engineer with experiance in Open Source, Software
       <td> <b>Oct 2021 - April 2022</b> </td>
    </tr>
    <tr>
-      <td> <b> CEO & Founder </b> </td>
+      <td> <b> Founder & CEO </b> </td>
       <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
       <td> <b>March 2020 - Oct, 2021</b> </td>
    </tr>
