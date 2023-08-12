@@ -72,7 +72,7 @@ I am a Entrepreneur and DevOps Engineer with experiance in Open Source, Software
    <tr>
       <td> <b> Founder & CEO </b> </td>
       <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
-      <td> <b>March 2020 - Oct, 2021</b> </td>
+      <td> <b>March 2019 - Oct, 2021</b> </td>
    </tr>
    <tr>
       <td> <b> Software Engineer Developer</b> </td>
