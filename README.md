@@ -6,15 +6,14 @@
 ![Add a subheading](https://user-images.githubusercontent.com/38817976/225311019-495d9965-0fc0-491d-9755-d29ace339761.png)
 
 
+I am a seasoned DevOps Engineer with expertise in Open Source technologies, Software Development, Cloud Services, and Freelancing. My passion lies in constructing robust platforms and delving into the vast realms of the Open Source community, Cloud Services, and the intricacies that come with them. I thrive on exploring cutting-edge technologies and am enthusiastic about sharing my acquired knowledge with others. Presently, I am actively engaged in learning and implementing DevOps practices to further enhance my skill set.
 
-I am a Entrepreneur and DevOps Engineer with experiance in Open Source, Software Development, Cloud Services and Freelancing. I love to build the Platforms and I love to explore the open Source world, Cloud Services, and the challenges associated with them. I like to Explore the new technologies, and share my knowledge with others. Currently, I'm learning and implementing DevOps.
-
-- 🌱 I'm Currently building an Open Source EdTech Platform.
+- 🌱 I'm Currently working for 8848 Digital as a DevOps Engineer.
 - 🥇 Top Rated Upwork Freelancer
 - 🎖  Former DevOps Engineer At Cloudplinth, HeaTrec Solutions, Accenture.
-- 🎖  Learning DevOps Tools, Full Stack❤️.
+- 🎖  Learning How to simplify Software Development Processes ❤️.
 - 👯 I’m looking to collaborate on Linkedin.
-- 🎖 Completed 3 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
+- 🎖 Completed 4 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
 - 💬 Ask me about Frontend Development, AWS Services, Freelancing and any Open Source stuff.
 - 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/AnandMo00714761) , [Linkedin - @itanand](https://www.linkedin.com/in/itanand/) , [Website - @itanand](https://itanand.netlify.app/)
