@@ -107,8 +107,6 @@ I am a seasoned DevOps Engineer with expertise in Open Source technologies, Soft
 
  **Languages and Tools:**  
 
-https://camo.githubusercontent.com/e583314134d8baff3d9b8af11541c75ecb4ac412ce0e7086539bcdbb53f4bd1d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c6d6f6e676f64622c657870726573732c72656163742c6e6f64656a732c747970657363726970742c6e6578742c6d7973716c
-
     
 
 
