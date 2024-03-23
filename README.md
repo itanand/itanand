@@ -45,7 +45,7 @@ I am a seasoned DevOps Engineer with expertise in Open Source technologies, Soft
   <tbody> 
    <tr>
       <td> <b>DevOps Engineer </b> </td>
-      <td><a href="[https://8848digital.com/]"/><b>8848 Digital</b></a></td>
+      <td><a href="[https://8848digital.com/]"/><b>8848 Digital LLP</b></a></td>
       <td> <b>Aug 2023 - Present </b> </td>
    </tr>
    <tr>
