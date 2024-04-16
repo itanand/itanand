@@ -49,11 +49,6 @@ I am a seasoned DevOps Engineer with expertise in Open Source technologies, Soft
       <td> <b>Aug 2023 - Present </b> </td>
    </tr>
    <tr>
-      <td> <b>Founder & CEO </b> </td>
-      <td><a href="[https://collegepur.com/]"/><b>Colegepur- An Open Source EdTech Platform</b></a></td>
-      <td> <b>May 2023 - Present </b> </td>
-   </tr>
-   <tr>
       <td> <b> DevOps Engineer</b> </td>
       <td><a href="[https://cloudplinth.com/]"/><b>CloudPlinth Technologies PVT LTD </b></a></td>
       <td> <b>May 2023 - Aug 2023 </b> </td>
@@ -78,11 +73,6 @@ I am a seasoned DevOps Engineer with expertise in Open Source technologies, Soft
       <td><a href="https://www.webshilla.com"/><b>Webshilla</b></a></td>
       <td> <b>March 2019 - Oct, 2021</b> </td>
    </tr>
-   <tr>
-      <td> <b> Software Engineer Developer</b> </td>
-      <td><a href="[https://www.usibtheteam.com/]"/><b>U-SIB The Team</b></a></td>
-      <td> <b>Oct 2020 - Sep 2021</b> </td>
-   </tr> 
    <tr>
       <td> <b>Development Intern </b> </td>
       <td><a href="[https://cctech.co.in/]"/><b>CCTech</b></a></td>
