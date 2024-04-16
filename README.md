@@ -15,7 +15,7 @@ I am a seasoned DevOps Engineer with expertise in Open Source technologies, Soft
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 4 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
-- 💬 Ask me about Frontend Development, AWS Services, Freelancing and any Open Source stuff.
+- 💬 Ask me about DevOps, AWS Services, Freelancing and any Open Source stuff.
 - 📫 How to reach me: [Twitter - @iamanand](https://twitter.com/itanand_) , [Linkedin - @itanand](https://www.linkedin.com/in/itanand/) , [Website - @itanand](https://itanand.netlify.app/)
 - 😄 Pronouns: He is..
 - 💭 Let's get to know each other 🌟
