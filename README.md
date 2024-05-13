@@ -6,7 +6,7 @@
 ![Add a subheading](https://user-images.githubusercontent.com/38817976/225311019-495d9965-0fc0-491d-9755-d29ace339761.png)
 
 
-I am a seasoned DevOps Engineer with expertise in Open Source technologies, Software Development, Cloud Services, and Freelancing. My passion lies in constructing robust platforms and delving into the vast realms of the Open Source community, Cloud Services, and the intricacies that come with them. I thrive on exploring cutting-edge technologies and am enthusiastic about sharing my acquired knowledge with others. Presently, I am actively engaged in learning and implementing DevOps practices to further enhance my skill set.
+I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, Software Development, Cloud Services, and Freelancing. My passion lies in constructing robust platforms and delving into the vast realms of the Open Source community, Cloud Services, and the intricacies that come with them. I thrive on exploring cutting-edge technologies and am enthusiastic about sharing my acquired knowledge with others. Presently, I am actively engaged in learning and implementing DevOps practices to further enhance my skill set.
 
 - 🌱 I'm Currently working for 8848 Digital as a DevOps Engineer.
 - 🥇 Top Rated Upwork Freelancer
