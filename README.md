@@ -86,7 +86,7 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 <br/>
  
  
- [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://twitter.com/AnandMo00714761)
+ [![Twitter-Badge](https://img.shields.io/twitter/follow/itanand?style=social&link=https://www.twitter.com/itanand/)](https://x.com/itanand_)
 [![Linkedin Badge](https://img.shields.io/badge/-itanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itanand/)](https://www.linkedin.com/in/itanand/)
 [![Instagram Badge](https://img.shields.io/badge/-data.integer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/data.integer/)](https://instagram.com/data.integer)
 [![Medium Badge](https://img.shields.io/badge/-@itanand-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@itanand/)](https://medium.com/@itanand)
