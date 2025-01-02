@@ -49,7 +49,7 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
       <td> <b>Aug 2023 - Present </b> </td>
    </tr>
    <tr>
-      <td> <b> DevOps Engineer</b> </td>
+      <td> <b> Sr. DevOps Engineer</b> </td>
       <td><a href="[https://cloudplinth.com/]"/><b>CloudPlinth Technologies PVT LTD </b></a></td>
       <td> <b>May 2023 - Aug 2023 </b> </td>
    </tr>
