@@ -11,7 +11,7 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 - 🌱 I'm Currently working for 8848 Digital as a DevOps Engineer.
 - 🥇 Top Rated Upwork Freelancer
 - 🎖  Former DevOps Engineer At Cloudplinth, HeaTrec Solutions, Accenture.
-- 🎖  Currently Learning  How to secure DevOps Processes❤️.
+- 🎖  Currently Learning  How to secure DevOps Processes❤️ and Golang.
 - 👯 I’m looking to collaborate on Linkedin.
 - 🎖 Completed 4 tech internships at CCTech, Varada 🛒, Zenrays 🎥, 🚗 and WERP india 📺
 - 🤔 Need some help with technical interview.
