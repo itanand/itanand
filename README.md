@@ -35,15 +35,23 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 
 <br/>
 
-📊 Github Analytics
- <table>
+## 📊 Github Analytics
+<!-- <table>
   <tr>
    
-<td><img src="https://github-readme-streak-stats.herokuapp.com?user=itanand&theme=nightowl" alt="GitHub Streak" />
-    <td><img src="https://github-readme-stats.vercel.app/api?username=itanand&count_private=true&show_icons=true&theme=nightowl" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamRatnaparkhi&theme=nightowl" alt="SohamRatnaparkhi"/>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SohamRatnaparkhi&count_private=true&show_icons=true&theme=nightowl" /></td>
   </tr>
 </table>
 
+
+ <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamRatnaparkhi&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=6&show_icons=true&locale=en&theme=algolia&hide=jupyternotebook,c,java,python,solidity&exclude_repo=BrainTumorDetection" alt="SohamRatnaparkhi"/>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -
+  </p> -->
+  
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 
