@@ -1,6 +1,10 @@
 
 ### Hola, I am Anand 👋
 
+``` html
+                                     		<h1> Hello world! </h1>
+```
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Anand.;A+Developer+%26+a+DevSecOps+Learner)](https://git.io/typing-svg)
 
 ![Add a subheading](https://user-images.githubusercontent.com/38817976/225311019-495d9965-0fc0-491d-9755-d29ace339761.png)
@@ -28,6 +32,18 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 * Former  Analytics Associate at [Accenture]
 * Founder & Instructor at [Unusual Engineer](https://www.youtube.com/channel/unusualengineer)
 * Founder & CEO at [Webshilla](https://www.webshilla.com) -->
+
+<br/>
+
+## 📊 Github Analytics
+<!-- <table>
+  <tr>
+   
+<td<img src="https://github-readme-streak-stats.herokuapp.com?user=itanand&theme=nightowl" alt="GitHub Streak" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=itanand&count_private=true&show_icons=true&theme=nightowl" /></td>
+  </tr>
+</table>
+
 
 <br/>
 
@@ -96,6 +112,8 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 
 
  **Languages and Tools:**  
+
+ 
 
     
 
