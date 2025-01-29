@@ -39,7 +39,7 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
  <table>
   <tr>
    
-<td<img src="https://github-readme-streak-stats.herokuapp.com?user=itanand&theme=nightowl" alt="GitHub Streak" />
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=itanand&theme=nightowl" alt="GitHub Streak" />
     <td><img src="https://github-readme-stats.vercel.app/api?username=itanand&count_private=true&show_icons=true&theme=nightowl" /></td>
   </tr>
 </table>
