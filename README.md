@@ -26,7 +26,7 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 - 💡 Want to know what's I'm working on ❓❗️ Click here 💎
 - ⚡ Fun fact: Life is alredy Fun.
  
-<!--  ## Work Experience :
+ ## Work Experience :
 
 * Software Engineer at HeaTRec Solutions Pvt. Ltd.
 * Former  Analytics Associate at [Accenture]
@@ -35,8 +35,8 @@ I am a seasoned Sr. DevOps Engineer with expertise in Open Source technologies, 
 
 <br/>
 
-## 📊 Github Analytics
-<!-- <table>
+📊 Github Analytics
+ <table>
   <tr>
    
 <td<img src="https://github-readme-streak-stats.herokuapp.com?user=itanand&theme=nightowl" alt="GitHub Streak" />
